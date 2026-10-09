@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3ECF8E"/>
+      <stop offset="1" stop-color="#2C9FB7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#2C9FB7" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#2C9FB7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .lbl{font-family:'Segoe UI',Arial,sans-serif;font-size:14px;font-weight:700;fill:#fff;text-anchor:middle;dominant-baseline:central}
+    .pill{fill:#16303b;stroke:#2C9FB7;stroke-width:2}
+    .ring{fill:none;stroke:#2C9FB7;stroke-width:1.5;stroke-dasharray:4 8;opacity:.45}
+    .core{font-family:'Segoe UI',Arial,sans-serif;font-size:34px;font-weight:800;fill:#fff;text-anchor:middle;dominant-baseline:central}
+    .pulse{animation:pulse 3s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+    @keyframes pulse{0%,100%{opacity:.5;transform:scale(.95)}50%{opacity:1;transform:scale(1.08)}}
+  </style>
+
+  <circle class="pulse" cx="200" cy="200" r="120" fill="url(#glow)"/>
+  <circle class="ring" cx="200" cy="200" r="95"/>
+  <circle class="ring" cx="200" cy="200" r="165"/>
+
+  <!-- inner orbit -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 200 200" to="360 200 200" dur="18s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 295 200" to="-360 295 200" dur="18s" repeatCount="indefinite"/>
+      <circle class="pill" cx="295" cy="200" r="27"/><text class="lbl" x="295" y="200">AI</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 152.5 282.3" to="-360 152.5 282.3" dur="18s" repeatCount="indefinite"/>
+      <circle class="pill" cx="152.5" cy="282.3" r="27"/><text class="lbl" x="152.5" y="282.3">ML</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 152.5 117.7" to="-360 152.5 117.7" dur="18s" repeatCount="indefinite"/>
+      <circle class="pill" cx="152.5" cy="117.7" r="27"/><text class="lbl" x="152.5" y="117.7">Data</text>
+    </g>
+  </g>
+
+  <!-- outer orbit (opposite direction) -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="360 200 200" to="0 200 200" dur="30s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 282.5 342.9" to="360 282.5 342.9" dur="30s" repeatCount="indefinite"/>
+      <circle class="pill" cx="282.5" cy="342.9" r="27"/><text class="lbl" x="282.5" y="342.9">IoT</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 35 200" to="360 35 200" dur="30s" repeatCount="indefinite"/>
+      <circle class="pill" cx="35" cy="200" r="27"/><text class="lbl" x="35" y="200">Web</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 282.5 57.1" to="360 282.5 57.1" dur="30s" repeatCount="indefinite"/>
+      <circle class="pill" cx="282.5" cy="57.1" r="27"/><text class="lbl" x="282.5" y="57.1" style="font-size:12px">Python</text>
+    </g>
+  </g>
+
+  <!-- core -->
+  <polygon points="200,148 245,174 245,226 200,252 155,226 155,174" fill="#0f2027" stroke="url(#edge)" stroke-width="5" stroke-linejoin="round"/>
+  <text class="core" x="200" y="200">MA</text>
+</svg>
