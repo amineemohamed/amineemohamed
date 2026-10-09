@@ -1,9 +1,9 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2C9FB7&height=240&section=header&text=Mohamed%20Amine%20Boucherit&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20AI%20%26%20Digitalization&descSize=18&descAlignY=58&descColor=cfe9f0" width="100%" alt="header"/>
+<img src="header.svg" width="100%" alt="Mohamed Amine Boucherit"/>
 
-<img src="logo.png" width="130" alt="Mohamed Amine Boucherit logo"/>
+<img src="orbit.svg" width="260" alt="MA orbit"/>
 
 <a href="https://github.com/hostinghosting144-star">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2C9FB7&center=true&vCenter=true&multiline=false&width=900&height=50&lines=Software+Development+%E2%86%92+AI+%E2%86%92+Intelligent+Systems;Artificial+Intelligence+%7C+Machine+Learning;Web+%26+Mobile+Application+Development;Data+Science+%7C+Cybersecurity+%7C+Fraud+Detection;IoT+%7C+Digital+Twins+%7C+Smart+Agriculture" alt="Typing SVG"/>
@@ -245,6 +245,6 @@ Open to collaboration on **AI, Machine Learning, Software Development, Data Scie
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1500&color=2C9FB7&center=true&vCenter=true&width=700&lines=%22Building+intelligent+software+for+real-world+problems.%22" alt="quote"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C9FB7,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+<img src="header.svg" width="100%" alt="footer"/>
 
 </div>
