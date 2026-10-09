@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="300" viewBox="0 0 820 300">
+  <style>
+    .bg{fill:#0d1b22}
+    .bar{fill:#16303b}
+    .t{font-family:'Fira Code',Consolas,monospace;font-size:15px;fill:#cfe9f0}
+    .p{fill:#2C9FB7}
+    .g{fill:#3ECF8E}
+    .y{fill:#f5c542}
+    .line{opacity:0}
+    .l1{animation:show 0.1s 0.5s forwards}
+    .l2{animation:show 0.1s 1.6s forwards}
+    .l3{animation:show 0.1s 2.4s forwards}
+    .l4{animation:show 0.1s 3.2s forwards}
+    .l5{animation:show 0.1s 4.0s forwards}
+    .l6{animation:show 0.1s 4.8s forwards}
+    .l7{animation:show 0.1s 5.6s forwards}
+    @keyframes show{to{opacity:1}}
+    .cur{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    .glow{animation:glow 3s ease-in-out infinite}
+    @keyframes glow{0%,100%{opacity:.5}50%{opacity:1}}
+  </style>
+  <rect class="bg" width="820" height="300" rx="14"/>
+  <rect class="bar" width="820" height="38" rx="14"/>
+  <rect class="bar" y="20" width="820" height="18"/>
+  <circle cx="24" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="19" r="6" fill="#27c93f"/>
+  <text class="t glow" x="330" y="24" style="font-size:12px;fill:#8FB8C4">amine@portfolio: ~</text>
+
+  <text class="t line l1" x="24" y="72"><tspan class="p">$</tspan> whoami</text>
+  <text class="t line l2" x="24" y="98">Mohamed Amine Boucherit — Software Developer</text>
+  <text class="t line l3" x="24" y="132"><tspan class="p">$</tspan> cat focus.txt</text>
+  <text class="t line l4" x="24" y="158"><tspan class="g">▸</tspan> AI · Machine Learning · Data Science</text>
+  <text class="t line l5" x="24" y="182"><tspan class="g">▸</tspan> IoT · Digital Twins · Smart Agriculture</text>
+  <text class="t line l6" x="24" y="206"><tspan class="g">▸</tspan> Web &amp; Mobile · Cybersecurity</text>
+  <text class="t line l7" x="24" y="246"><tspan class="p">$</tspan> <tspan class="y">building intelligent software</tspan><tspan class="cur"> █</tspan></text>
+</svg>

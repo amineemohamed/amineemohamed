@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130">
+  <style>
+    .t{font-family:'Segoe UI',Arial,sans-serif;font-size:14px;font-weight:600;fill:#fff;text-anchor:middle}
+    .node{fill:#203a43;stroke:#2C9FB7;stroke-width:2}
+    .flow{stroke:#2C9FB7;stroke-width:3;stroke-dasharray:8 8;fill:none;animation:dash 1s linear infinite}
+    @keyframes dash{to{stroke-dashoffset:-16}}
+    .pulse{animation:pulse 2.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+    @keyframes pulse{0%,100%{stroke:#2C9FB7}50%{stroke:#3ECF8E;filter:drop-shadow(0 0 6px #3ECF8E)}}
+    .d1{animation-delay:0s}.d2{animation-delay:.4s}.d3{animation-delay:.8s}
+    .d4{animation-delay:1.2s}.d5{animation-delay:1.6s}.d6{animation-delay:2s}
+  </style>
+  <path class="flow" d="M130 65 H175"/>
+  <path class="flow" d="M295 65 H340"/>
+  <path class="flow" d="M460 65 H505"/>
+  <path class="flow" d="M625 65 H670"/>
+  <path class="flow" d="M790 65 H820"/>
+  <g>
+    <rect class="node pulse d1" x="10"  y="35" width="120" height="60" rx="12"/><text class="t" x="70"  y="70">Software</text>
+    <rect class="node pulse d2" x="175" y="35" width="120" height="60" rx="12"/><text class="t" x="235" y="70">Data</text>
+    <rect class="node pulse d3" x="340" y="35" width="120" height="60" rx="12"/><text class="t" x="400" y="70">AI / ML</text>
+    <rect class="node pulse d4" x="505" y="35" width="120" height="60" rx="12"/><text class="t" x="565" y="70">Intelligent</text>
+    <rect class="node pulse d5" x="670" y="35" width="120" height="60" rx="12"/><text class="t" x="730" y="70">IoT</text>
+    <rect class="node pulse d6" x="820" y="35" width="70"  height="60" rx="12"/><text class="t" x="855" y="70">🌍</text>
+  </g>
+</svg>
