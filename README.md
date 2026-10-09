@@ -42,7 +42,11 @@ I build systems where **software, AI, data and real-world applications meet**: f
 | 🔭 **Focus** | AI · Software Development · Data Science · IoT · Digital Twins |
 | 🌍 **Languages** | Arabic · French · English |
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=8FB8C4&center=true&vCenter=true&width=800&lines=Software+%E2%86%92+Data+%E2%86%92+AI%2FML+%E2%86%92+Intelligent+Systems+%E2%86%92+IoT+%E2%86%92+Real-World+Applications" alt="pipeline"/>
+<img src="assets/pipeline.svg" width="100%" alt="Software → Data → AI/ML → Intelligent Systems → IoT"/>
+
+<br/>
+
+<img src="assets/terminal.svg" width="720" alt="Animated terminal"/>
 
 </div>
 
@@ -197,6 +201,11 @@ flowchart LR
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hostinghosting144-star&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hostinghosting144-star&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hostinghosting144-star/hostinghosting144-star/output/github-snake-dark.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/hostinghosting144-star/hostinghosting144-star/output/github-snake.svg" width="100%"/>
+</picture>
 
 <img src="https://github-profile-trophy.vercel.app/?username=hostinghosting144-star&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6"/>
 
