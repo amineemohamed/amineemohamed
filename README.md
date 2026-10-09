@@ -5,19 +5,19 @@
 
 <img src="orbit.svg" width="260" alt="MA orbit"/>
 
-<a href="https://github.com/hostinghosting144-star">
+<a href="https://github.com/amineemohamed">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2C9FB7&center=true&vCenter=true&multiline=false&width=900&height=50&lines=Software+Development+%E2%86%92+AI+%E2%86%92+Intelligent+Systems;Artificial+Intelligence+%7C+Machine+Learning;Web+%26+Mobile+Application+Development;Data+Science+%7C+Cybersecurity+%7C+Fraud+Detection;IoT+%7C+Digital+Twins+%7C+Smart+Agriculture" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=hostinghosting144-star&label=Profile%20views&color=2C9FB7&style=for-the-badge" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=amineemohamed&label=Profile%20views&color=2C9FB7&style=for-the-badge" alt="views"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20collaborate-2ea44f?style=for-the-badge&logo=statuspage&logoColor=white" alt="status"/>
 <img src="https://img.shields.io/badge/Tiaret%2C%20Algeria-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
 
 <br/><br/>
 
-<a href="https://github.com/hostinghosting144-star"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/amineemohamed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://hostinghosting144-star.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2C9FB7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 
@@ -195,19 +195,19 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hostinghosting144-star&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hostinghosting144-star&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=amineemohamed&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amineemohamed&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hostinghosting144-star&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amineemohamed&theme=tokyonight&hide_border=true&border_radius=12"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hostinghosting144-star&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amineemohamed&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hostinghosting144-star/hostinghosting144-star/output/github-snake-dark.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/hostinghosting144-star/hostinghosting144-star/output/github-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amineemohamed/amineemohamed/output/github-snake-dark.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/amineemohamed/amineemohamed/output/github-snake.svg" width="100%"/>
 </picture>
 
-<img src="https://github-profile-trophy.vercel.app/?username=hostinghosting144-star&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=amineemohamed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6"/>
 
 </div>
 
@@ -237,7 +237,7 @@ Open to collaboration on **AI, Machine Learning, Software Development, Data Scie
 <a href="https://hostinghosting144-star.github.io/Portfolio/">
   <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-2C9FB7?style=for-the-badge"/>
 </a>
-<a href="https://github.com/hostinghosting144-star">
+<a href="https://github.com/amineemohamed">
   <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
