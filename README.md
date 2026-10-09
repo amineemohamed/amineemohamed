@@ -245,6 +245,6 @@ Open to collaboration on **AI, Machine Learning, Software Development, Data Scie
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1500&color=2C9FB7&center=true&vCenter=true&width=700&lines=%22Building+intelligent+software+for+real-world+problems.%22" alt="quote"/>
 
-<img src="header.svg" width="100%" alt="footer"/>
+<img src="footer.svg" width="100%" alt="footer"/>
 
 </div>
