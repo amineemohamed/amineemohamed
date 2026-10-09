@@ -42,11 +42,11 @@ I build systems where **software, AI, data and real-world applications meet**: f
 | 🔭 **Focus** | AI · Software Development · Data Science · IoT · Digital Twins |
 | 🌍 **Languages** | Arabic · French · English |
 
-<img src="assets/pipeline.svg" width="100%" alt="Software → Data → AI/ML → Intelligent Systems → IoT"/>
+<img src="pipeline.svg" width="100%" alt="Software → Data → AI/ML → Intelligent Systems → IoT"/>
 
 <br/>
 
-<img src="assets/terminal.svg" width="720" alt="Animated terminal"/>
+<img src="terminal.svg" width="720" alt="Animated terminal"/>
 
 </div>
 
